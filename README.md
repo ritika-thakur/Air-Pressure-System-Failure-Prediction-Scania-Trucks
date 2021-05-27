@@ -18,7 +18,7 @@ In this project, I have worked on a real data set of Scania trucks where it is p
 
 2. Replacing the 'Nan' values in the remaining columns with integer values using SimpleImputer of scikit-learn.
 
-3. Inherited a module made from scratch in earlier project having function for splitting, training, applying pca on the dataset and evaluating accuracy of the trained model. 
+3. Inheritance of a class from the `gaussian_nb` module made from scratch in earlier project having function for splitting, training, applying pca on the dataset and evaluating accuracy of the trained model. 
 
 4. Balance the dataset by synthesizing data for minority using Synthetic Minority Oversampling Technique (SMOTE). 
 
