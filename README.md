@@ -14,18 +14,18 @@ In this project, I have worked on a real data set of Scania trucks where it is p
 
 ##  Concepts applied 
 
-1. Processed the data making it readable, removed unnecessary columns having 'Nan' values more than threshold value given by the user 
+1. Processed the data making it readable, removed unnecessary columns having `Nan` values more than `non-missing-threshold` value given by the user 
 
-2. Replacing the 'Nan' values in the remaining columns with integer values using SimpleImputer of scikit-learn.
+2. Replacing the `Nan` values in the remaining columns with integer values using `SimpleImputer` of scikit-learn.
 
 3. Inheritance of a class from the `gaussian_nb` module made from scratch in earlier project having function for splitting, training, applying pca on the dataset and evaluating accuracy of the trained model. 
 
-4. Balance the dataset by synthesizing data for minority using Synthetic Minority Oversampling Technique (SMOTE). 
+4. Balance the dataset by synthesizing data for minority using Synthetic Minority Oversampling Technique `SMOTE`. 
 
 5. Binning had been done on the dataset to categorize the discrete random values.
 
-6. Applied One hot encoding from scratch before applying pca to make the data continuous. 
+6. Applied One hot encoding from scratch before `applying pca` to make the data continuous. 
 
 7. Found the best fitting configurations for the model. 
 
-8. Predicted accuracy, precision and recall on cross validation as well as testing data. 
+8. Predicted `accuracy`, `precision` and `recall` on cross validation as well as testing data. 
