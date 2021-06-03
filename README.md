@@ -1,6 +1,6 @@
 # Air Pressure System Failure Prediction of Scania Trucks
 
-In this project, I have worked on a real data set of Scania trucks where it is predicted if the air pressure system of a truck will fail or not. I have used Naive Bayes algorithm to traint he model. 
+In this project, I have worked on a real data set of Scania trucks where it predicts if the air pressure system of a truck will fail or not. I have used Naive Bayes algorithm to train he model. 
 
 ## Tools and liberaries used 
 
